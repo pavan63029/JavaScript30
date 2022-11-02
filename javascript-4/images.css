@@ -1,0 +1,90 @@
+.images1{
+    background-image: url("https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&w=300");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    width: 25%;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+    font-size: 50px;
+   overflow: hidden;
+   color: blueviolet;
+   font-weight: bold;
+   text-shadow: 5px 5px  black;
+   letter-spacing: 2px;
+
+   
+}
+.images2{
+ 
+    background-image: url("https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg?auto=compress&cs=tinysrgb&w=300");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    width: 25%;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    font-size: 50px;
+    overflow: hidden;
+    color: blueviolet;
+    font-weight: bold;
+    text-shadow: 5px 5px  black;
+    letter-spacing: 2px;
+}
+.images3{
+    background-image: url("https://images.pexels.com/photos/716398/pexels-photo-716398.jpeg?auto=compress&cs=tinysrgb&w=300");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    width: 25%;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    font-size: 50px;
+    overflow: hidden;
+    color: blueviolet;
+    font-weight: bold;
+    text-shadow: 5px 5px  black;
+    letter-spacing: 2px;
+    
+}
+.images4{
+    background-image: url("https://images.pexels.com/photos/144171/pexels-photo-144171.jpeg?auto=compress&cs=tinysrgb&w=300");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    width: 25%;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+    font-size: 50px;
+    overflow: hidden;
+    color: blueviolet;
+    font-weight: bold;
+    text-shadow: 5px 5px  black;
+    letter-spacing: 2px;
+    
+}
+ p:hover{ 
+    width: 500px;
+    transform: rotatez(360deg);
+    transition: 2s;
+  
+}
+h4{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight:20px;
+   background-color:#484b4f;
+   color:white;
+}
+
